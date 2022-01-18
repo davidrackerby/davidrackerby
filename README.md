@@ -1,8 +1,7 @@
 - 👋 Hi, I’m David
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning in school.
+- 💻 Computer Science Major
 - 💞️ I’m looking to collaborate on future projects.
-- 📫 How to reach me: I will probably make a linkedin at some point.
+- 📫 How to reach me: https://www.linkedin.com/in/david-rackerby-b281a1227
 
 <!---
 davidrackerby/davidrackerby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
