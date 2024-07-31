@@ -1,9 +1,12 @@
-- 👋 Hi, I’m David
-- 💻 Computer Science Major
-- 💞️ I’m looking to collaborate on future projects.
-- 📫 How to reach me: https://www.linkedin.com/in/david-rackerby-b281a1227
+# 👋 Hi, I’m David!
 
-<!---
-davidrackerby/davidrackerby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In April 2024, I graduated with a B.S. in Computer Science with a minor in Math from Michigan State University.
+
+Since my first Computer Science class in High School, I've loved building software and learning new ways to solve novel problems using software!
+- Some of my interests include:
+  - Compilers — I highly recommend reading CraftingInterpreters by Bob Nystrom to start learning about compilers
+  - Theoretical Computer Science - **Please** check out Michael Sipser's book on this topic
+  - Web applications - FullStackOpen + MDN Web Docs are two amazing resources to reference when learning to build web apps
+  - Machine Learning - Read Machine Learning with PyTorch and Scikit-Learn for a good combination of theory and practice
+
+I also love teaching! With 5+ years of teaching experience, I've helped many of my students, peers, and colleagues grasp hard topics in programming, data structures, algorithms, math, and chemistry.
