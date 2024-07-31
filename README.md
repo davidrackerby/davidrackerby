@@ -10,3 +10,5 @@ Since my first Computer Science class in High School, I've loved building softwa
   - Machine Learning - Read Machine Learning with PyTorch and Scikit-Learn for a good combination of theory and practice
 
 I also love teaching! With 5+ years of teaching experience, I've helped many of my students, peers, and colleagues grasp hard topics in programming, data structures, algorithms, math, and chemistry.
+
+Message me on LinkedIn for business inquiries!
