@@ -9,6 +9,6 @@ Since my first Computer Science class in High School, I've loved building softwa
   - Web applications - FullStackOpen + MDN Web Docs are two amazing resources to reference when learning to build web apps
   - Machine Learning - Read Machine Learning with PyTorch and Scikit-Learn for a good combination of theory and practice
 
-I also love teaching! With 5+ years of teaching experience, I've helped many of my students, peers, and colleagues grasp hard topics in programming, data structures, algorithms, math, and chemistry.
+I also love teaching! With 5+ years of teaching experience, I've helped many of my students, peers, and colleagues grasp challenging topics in programming, data structures, algorithms, math, and chemistry.
 
-Message me on LinkedIn for business inquiries!
+Message me on LinkedIn for business inquiries.
